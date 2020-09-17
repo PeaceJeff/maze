@@ -1,0 +1,72 @@
+=====================
+Solution started: 09/17/2020 10:44 PM
+=====================
+x:3,y:9
+x:3,y:8
+x:4,y:8
+x:5,y:8
+x:5,y:7
+x:5,y:6
+x:4,y:6
+x:3,y:6
+x:3,y:5
+x:3,y:4
+x:3,y:3
+x:2,y:3
+x:2,y:2
+x:1,y:2
+x:1,y:1
+x:1,y:0
+=====================
+Solution started: 09/17/2020 10:45 PM
+=====================
+x:3,y:9
+x:3,y:8
+x:4,y:8
+x:5,y:8
+x:5,y:7
+x:5,y:6
+x:4,y:6
+x:3,y:6
+x:3,y:5
+x:3,y:4
+x:3,y:3
+x:2,y:3
+x:2,y:2
+x:1,y:2
+x:1,y:1
+x:1,y:0
+=====================
+Solution started: 09/17/2020 10:53 PM
+=====================
+There was no possible solution.
+=====================
+Solution started: 09/17/2020 10:56 PM
+=====================
+There was no possible solution.
+=====================
+Solution started: 09/17/2020 11:13 PM
+=====================
+There was no possible solution.
+=====================
+Solution started: 09/17/2020 11:19 PM
+=====================
+There was no possible solution.
+=====================
+Solution started: 09/17/2020 11:20 PM
+=====================
+x:3,y:8
+x:4,y:8
+x:5,y:8
+x:5,y:7
+x:5,y:6
+x:4,y:6
+x:3,y:6
+x:3,y:5
+x:3,y:4
+x:3,y:3
+x:2,y:3
+x:2,y:2
+x:1,y:2
+x:1,y:1
+x:1,y:0

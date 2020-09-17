@@ -1,0 +1,11 @@
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\obj\Debug\netcoreapp3.1\maze.csprojAssemblyReference.cache
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfoInputs.cache
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\obj\Debug\netcoreapp3.1\maze.AssemblyInfo.cs
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\bin\Debug\netcoreapp3.1\maze.exe
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\bin\Debug\netcoreapp3.1\maze.deps.json
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.json
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\bin\Debug\netcoreapp3.1\maze.runtimeconfig.dev.json
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\bin\Debug\netcoreapp3.1\maze.dll
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\bin\Debug\netcoreapp3.1\maze.pdb
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\obj\Debug\netcoreapp3.1\maze.dll
+C:\Users\PeaceDec\Documents\RPA\task for candidate to Danske\maze\obj\Debug\netcoreapp3.1\maze.pdb
